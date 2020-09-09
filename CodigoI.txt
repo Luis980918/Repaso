@@ -1,0 +1,13 @@
+(CREAR REPO Y SUBIR UN ARCHIVO)
+Crear carpeta
+git init a la carpeta
+Creamos un archivo txt dentro de la carpeta(Representará el codigo en el que trabajaremos)
+git status => confirmamos los cambios que hemos hecho
+git add .
+git commit -m 'contenido'
+git remote add origin LINK
+git push -u origin master
+
+
+
+
